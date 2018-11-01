@@ -1,0 +1,77 @@
+---
+# https://crsh.github.io/papaja_man/index.html
+
+title             : "Title here"
+shorttitle        : "COMPACT TITLE"
+
+author: 
+  - name          : "Author"
+    affiliation   : "1"
+    corresponding : yes    # Define only one corresponding author
+    address       : "316 Physics Rd #348, East Lansing, MI 48824"
+    email         : "email"
+  - name          : "Author2"
+    affiliation   : "1"
+
+affiliation:
+  - id            : "1"
+    institution   : "Michigan State University"
+
+
+author_note: |
+  Author1, Department of Psychology, Michigan State University; Author2, Department of Psychology, Michigan State University.
+
+abstract: |
+  Some abstract text here. 
+
+keywords          : "word, words, words"
+wordcount         : "102"
+
+bibliography      : ["../../references.bib"]
+
+figsintext        : no
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+lineno            : yes
+
+lang              : "english"
+class             : "man"
+output            : papaja::apa6_pdf
+---
+
+```{r load_packages, include = FALSE}
+library("papaja")
+```
+
+```{r analysis_preferences}
+# Seed for random number generation
+set.seed(42)
+```
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.path = 'figures/', echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+
+```{r child = 'dependency_intro.Rmd'}
+```
+
+
+```{r child = 'dependency_other1.Rmd'}
+```
+
+
+```{r child = 'dependency_other2.Rmd'}
+```
+
+
+\newpage
+
+# References
+```{r create_references}
+r_refs(file = "../../references.bib")
+```
+
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
