@@ -1,0 +1,16 @@
+---
+title: "Dependency_notes"
+author: "Daniel Griffin"
+date: "November 8, 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Notes on posible dependency directions
+My original idea was to go though and identify a genralized way at looking at dependency in terms of the state requaired for a task to be completed. 
+
+After talking though it, we think that a paper that lists current measures of dependency and describes where they are used could be more useful. 
+
+After taking the review of dependency indecies, we could move on to do quite a bit in that space. Nothing really exists there. A generalized definition and conseptualization of dependency could be powerful, but we probably need to lay the foundation with a revew article first.
