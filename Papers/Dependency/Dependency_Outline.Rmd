@@ -1,0 +1,41 @@
+---
+title: "Dependency Index Outline"
+author: "Daniel Griffin"
+date: "November 13, 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+## Hook
+  Maybe start with a quote that mentions how important dependency is.
+  Talk about how dependency is fundamental, every one talks about it but, no one really knows what to do with it.
+
+# Dependency in literature
+
+## Mathieu 
+  -does not talk about an index
+
+## Hollemebck
+
+## Steve
+
+# Framework of how to talk about Dependency
+The goal here is to generate a taxonomy to use in describing methods of measuring dependency, and develop criteria for evaluating these indices. 
+
+# Measuring Dependency
+
+## O'Brioin
+
+## Syntactical, Work, Logical Dependency
+
+## Path Dependency
+
+# Comperison of Dependency measures
+This section will include a table of what dependency is used where, and the advantages of each. It will discuss how methods could be used in different contexts from where they originated.
+
+# Conclusion and recomendations
