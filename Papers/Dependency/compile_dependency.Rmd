@@ -1,8 +1,8 @@
 ---
 # https://crsh.github.io/papaja_man/index.html
 
-title             : "Title here"
-shorttitle        : "COMPACT TITLE"
+title             : "Measures of Dependency in Collective Performance"
+shorttitle        : "Measures of Dependency"
 
 author: 
   - name          : "Author"
@@ -24,7 +24,7 @@ author_note: |
 abstract: |
   Some abstract text here. 
 
-keywords          : "word, words, words"
+keywords          : "Dependecy, Perfomance, Teams, Tasks"
 wordcount         : "102"
 
 bibliography      : ["../../references.bib"]
@@ -33,7 +33,7 @@ figsintext        : no
 figurelist        : no
 tablelist         : no
 footnotelist      : no
-lineno            : yes
+lineno            : no
 
 lang              : "english"
 class             : "man"

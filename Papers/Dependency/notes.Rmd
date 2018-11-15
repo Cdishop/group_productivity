@@ -9,8 +9,10 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 # Notes on posible dependency directions
-My original idea was to go though and identify a genralized way at looking at dependency in terms of the state requaired for a task to be completed. 
+My original idea was to go though and identify a generalized way at looking at dependency in terms of the state required for a task to be completed. 
 
 After talking though it, we think that a paper that lists current measures of dependency and describes where they are used could be more useful. 
 
-After taking the review of dependency indecies, we could move on to do quite a bit in that space. Nothing really exists there. A generalized definition and conseptualization of dependency could be powerful, but we probably need to lay the foundation with a revew article first.
+After taking the review of dependency indices, we could move on to do quite a bit in that space. Nothing really exists there. A generalized definition and conceptualization of dependency could be powerful, but we probably need to lay the foundation with a review article first.
+
+On Thursday the 8the we talked more about it. The current direction is to really focus on forming a framework for distinguishing and evaluating different forms of dependency indices. We have a lot of work as far as literature review to know where this will go.
