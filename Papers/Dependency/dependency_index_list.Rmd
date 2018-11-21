@@ -1,0 +1,187 @@
+---
+title: "Dependency Indices"
+author: "Daniel Griffin"
+date: "November 21, 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#O'Brien (Developed both of these himself)
+##	Coordination index: a measure of how often a roles task must follow another role's actions.
+  Equation
+  Global
+
+## -      Collaboration: The proportion of  tasks that are done jointly that out of the maximum total of tasks that could be done jointly.
+  Equation
+  Global
+\hrule
+
+# Cataldo
+## -   Syntactic Dependencies Measures: Measure of how many times there are explicit references to tokens from another file. (Uses C-REX tool so this is not original to Cataldo)
+  Procedural and objective (Measured using an application)
+  Split into inflow data, outflow data, inflow functional, and outflow functional dependency
+  Local to a file (do not know if aggregation is appropriate here)
+
+\begin{center}
+\textit{Logical Dependency Measures (Gall called it Logical coupling first)}
+\end{center}
+
+## -   Number of Logical Dependencies: Measures the number of dependencies a single file has
+  No equation given, but that is because it is simply the sum of a row of the dependency matrix
+  Local for a file (though this could easily be aggregated) 
+
+## -   Clustering of Logical Dependencies (CLD): Measures the density of direct connections of the direct dependency neighbors of a file.
+  Equation
+  Local file (though this could easily be aggregated)
+
+\begin{center}
+\textit{Work Dependency Measures}
+\end{center}
+
+## -   Work Flow Dependency: A measure of how often developers must pass work to another developer because it touches their subsystem.
+  Equation (Based on the maximum centrality of developers who worked on a file in the developer to developer work dependency matrix)
+  Local for a file(could be aggregated possibly)
+  May not provide discriminate validity over other measures (they excluded it because of how correlated  to other measures it was)
+
+## -   Coordination Dependency: Similar to work follow, but there is not a pass of, but work of one developer could impact other developers
+  Equations (based on maximum centrality of a matrix calculated)
+  Local for a file (could possibly be aggregated)
+
+\begin{center}
+\textit{Other}
+\end{center}
+
+## -   Network centrality: Used in other measures but could be considered its own measure of dependency
+  Equation
+  Local
+\hrule
+
+# Barnes
+## -   Backing up Behavior: Measured behavioral occasions of team mates doing each other's jobs (done previously in literature)
+  Observation
+  Summed to team level
+\hrule
+
+# Lee
+## -   Asking for help: Measured number of times individuals asked for help, this could be tied to dependency
+  Observation
+  Local
+\hrule
+
+# Marolyn
+## -   Used Beattie Co-Dependency to assess social dependency
+  Procedural questionnaire
+  Individual 
+\hrule
+
+# Stubbs
+## -   Evaluates community Dependency Index: Not great measure, but helpful in evaluating if rehabilitation would be good
+\hrule
+
+# Fandt 1991
+## -   Self-report, and coded video observation to rate interdependency.
+## -   Seashore's group cohesive index: measure of at group cohesion. 
+  Not as relevant, but worth considering.
+\hrule
+
+# Konrath 2011 (Signilis developed measure I believe)
+## -   Self-Construal Scale: Index of interdependency as a personality trait
+  Self-Report
+   Individual
+\hrule
+
+# Wageman 
+## -   Self-report survey of experienced interdependence
+\hrule
+
+# Bornstine
+## -   Self-report measure of interpersonal dependency.
+\hrule
+
+# Salancik
+## -   Index of importance in dependency network
+  Equation
+  Local
+\hrule
+
+# Network Analysis / Graph Theory (Note that many global values would be more meaningful when calculated on connected sub graphs) https://transportgeography.org/?page_id=5981
+## -   Network Centrality: Measure of how central a node (individual) is
+  Equation
+  Local
+
+## -   Connectivity: Number of nodes that need to be dropped to split components of a network
+  Procedural
+  Global
+
+## -   Edge-Connectivity: Number of edges that need to be dropped to split components of a network
+  Procedural 
+  Global
+
+## -   Edge-density: Number of edges present compared to total possible
+  Procedural 
+  Global
+
+## -   Degree (In Degree, Out Degree): Number of edges a node has (can be directed going out or coming int).
+  Procedural
+  Global
+
+## -   Transitivity: are network connections transitive (my friend's friend is my friend etc)
+  Equation
+  Global
+
+## -   Clique Number: The maximum size of a set of nodes that are all connected to each other
+  Equation
+  Global
+
+## -   Diameter: The maximum distance for the smallest path between any to nodes
+  Procedural
+  Global 
+
+## -   Eccentricity: The largest distance from a specific node to any other node
+  Procedural
+  Local
+
+## -   Radius: The minimum distance from some node (or set of nodes. Known as the center) to any other node
+  Procedural
+  Global
+
+## -   Number of cycles: self-explanatory - more cycles more complex, and stronger dependency in some sense
+  Procedural
+  Global
+
+## -   Pi Index: Ratio of length of network to the diameter of the network
+  Equation
+  Global
+
+## -   Beta Index: Ratio of number of connections to number of nodes
+  Equation
+  Global
+
+## -   Alpha index: Ration of number of cycles to total number of cycles
+  Equation
+  Global
+
+## -   Shimbel Index: Sum of all shortest paths to other nodes for a given node
+  Local
+  Inversely related to distance centrality
+
+## -   Betweenness Centrality: Number of times a shortest path passes though a the given node
+  Local
+
+## -   Average Nearest neighbor degree
+  Global
+
+## -   Cohesion  index: A measure of density of components a node connects to. 
+  Local (on an edge)
+
+## -   Within Module degree 
+## -   Participation coefficient
+# Peretto
+## -   Index of market independence based on labor and capital market
+  Equations
+  Global
+  Not sure how usable this one is.
+\hrule
+
