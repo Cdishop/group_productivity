@@ -1,3 +1,4 @@
 *.pdf
 *.DS_Store
 *.Rhistory
+Dependency/compile_dependency.tex
