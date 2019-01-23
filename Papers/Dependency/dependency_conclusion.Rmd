@@ -1,0 +1,22 @@
+---
+output: pdf_document
+title: Dependency Intro
+---
+# Discussion
+
+In this paper we have discussed the importance of dependency to teams and team outcomes. We have discussed dependence and interdependency are definitionally part of teams, and described ways that dependency has been conceptualized in the organizational literature. 
+
+We contribute to the theory of dependencies by describing how dependencies form relationships between objects and sources of dependency such that performance of the object is influenced by performance of the source. We further contributed to the theory of dependencies by describing how these dependency relationships for a dependency network which could illustrate possible sources of failure in a team system or demonstrate how team members can facilitate team success. Most significantly we have contributed organizational theory by providing a taxonomy that can be used to describe dependency indices. This lexicon will be a tremendous stepping stone for future research and theory development of organizational dependency. This will also help to resolve potential conflicting results, and promote unity in future dependency research communications. 
+
+## Future Work
+This paper represents the beginning in a long task in distinguishing and describing dependency in organizations and its outcomes. While we feel that the taxonomy presented here covers characteristics of dependency indices, this framework is by no means comprehensive nor complete. There are likely many more characteristics of dependency indices worth considering. We suggest that future research may identify dimensions that should be incorporated into the dependency taxonomy.
+
+Another area of research that is greatly needed is a systematic study of different types of dependency. We have proposed that dependencies are relationships that form networks between. A though investigation of this theoretical interpretation of dependency and its implications is needed. Specifically a review of different forms of dependency and the outcomes they are linked to is needed. While the taxonomy provided in this paper can be used to distinguish potential types of dependency it is focused primarily on distinguishing indices of dependency, and further investigation into how to categorize types of dependency is necessary.
+
+We find it shocking that despite the large number of papers that reference the importance of dependency, there has been to our knowledge no systematic review of the literature regarding the impacts of dependency. It is our hope that the taxonomy provided in this paper will aid the study and review of organizational dependencies impacts. Specifically we hope that a future categorization of dependency types will help drive a review that is able to systematically identify what the desperate impacts of differing forms of organizational dependency are.
+
+## Conclusion
+
+We have provided theoretical contribution to organizational sciences by providing a theoretical conceptualization of what dependencies are and how they form networks. We have furthermore contributed to organizational sciences by providing a taxonomy for indices of dependency and briefly reviewing good examples of dependency indices that we have identified.
+
+Organizational dependency is not only an enormously important topic, but also a very promising avenue for research. We suggest that there appears to be a bright future in the study of organizational dependency.

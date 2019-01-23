@@ -1,7 +1,0 @@
----
-output: pdf_document
----
-
-More text.
-
-@wood_task_1986

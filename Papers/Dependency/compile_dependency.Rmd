@@ -22,10 +22,10 @@ author_note: |
   Author1, Department of Psychology, Michigan State University; Author2, Department of Psychology, Michigan State University.
 
 abstract: |
-  Some abstract text here. 
+  Dependence relationships in teams is a crucial factor to consider in the study of performance. Highlighting this fact, various fields have studied the notion of dependency and its impact on collective performance. Numerous methods have been used to both measure and manipulate dependency; however, to-date there is no clear taxonomy which can be used to compare various methods of measuring dependency or distinguish what is meant by dependency. Without such a framework that could be used to organize the discussion of dependency it is difficult to compare results or make any sort of generalized claims about dependency. We then propose a theoretical taxonomy which will provide a common language that can be used to precisely describe dependency, and dependency measures, enabling greater precision in future dependency research. As part of this taxonomy we contribute to the theory of organizational dependency by describing a theoretical framework for what a dependency is. After providing our taxonomy, we will then review measures of dependency that have been employed in the organizational literature. We conclude with suggestions of promising future research directions in the are of organizational dependency.
 
 keywords          : "Dependecy, Perfomance, Teams, Tasks"
-wordcount         : "102"
+wordcount         : "184"
 
 bibliography      : ["../../references.bib"]
 
@@ -58,13 +58,20 @@ knitr::opts_chunk$set(fig.path = 'figures/', echo = FALSE, warning = FALSE, mess
 ```
 
 
-```{r child = 'dependency_other1.Rmd'}
+```{r child = 'dependency_in_teams.Rmd'}
 ```
 
 
-```{r child = 'dependency_other2.Rmd'}
+```{r child = 'dependency_taxonomy.Rmd'}
 ```
 
+
+```{r child = 'dependency_indices.Rmd'}
+```
+
+
+```{r child = 'dependency_conclusion.Rmd'}
+```
 
 \newpage
 
