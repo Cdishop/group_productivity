@@ -3,7 +3,9 @@
 
 title             : "Measures of Dependency in Collective Performance"
 shorttitle        : "Measures of Dependency"
-
+header-includes   :
+  - \usepackage{blkarray}
+  - \usepackage{amsmath}
 author: 
   - name          : "Author"
     affiliation   : "1"
@@ -22,10 +24,10 @@ author_note: |
   Author1, Department of Psychology, Michigan State University; Author2, Department of Psychology, Michigan State University.
 
 abstract: |
-  Dependence relationships in teams is a crucial factor to consider in the study of performance. Highlighting this fact, various fields have studied the notion of dependency and its impact on collective performance. Numerous methods have been used to both measure and manipulate dependency; however, to-date there is no clear taxonomy which can be used to compare various methods of measuring dependency or distinguish what is meant by dependency. Without such a framework that could be used to organize the discussion of dependency it is difficult to compare results or make any sort of generalized claims about dependency. We then propose a theoretical taxonomy which will provide a common language that can be used to precisely describe dependency, and dependency measures, enabling greater precision in future dependency research. As part of this taxonomy we contribute to the theory of organizational dependency by describing a theoretical framework for what a dependency is. After providing our taxonomy, we will then review measures of dependency that have been employed in the organizational literature. We conclude with suggestions of promising future research directions in the are of organizational dependency.
+  Dependence relationships in teams are a crucial factor to consider in the study of performance. Highlighting this fact, various organizational researchers have dicused the importance of dependnecy and numerous fields have independenly studied the notion of dependency. Many methods have been used to both measure and manipulate dependency; however, to-date there is no clear taxonomy which can be used to compare various methods of measuring dependency or distinguish what is meant by dependency. Without such a framework it is difficult to compare results or make generalized claims about dependency. In the present paper we propose a theoretical taxonomy which will provide a common language that can be used to precisely describe dependency, and dependency measures. This taxonomy will enabling greater precision in future dependency research. As part of this taxonomy we contribute to the theory of organizational dependency by describing a theoretical framework for what a dependency is and how it incorperates other related consturcts such as colaboeration, cooperation, and coordination. After providing our taxonomy, we review measures of dependency that have been employed in the organizational literature and provide suggestions as to the best use of these measures. We conclude with suggestions of promising future research directions in the are of organizational dependency.
 
 keywords          : "Dependecy, Perfomance, Teams, Tasks"
-wordcount         : "184"
+wordcount         : "1"
 
 bibliography      : ["../../references.bib"]
 
