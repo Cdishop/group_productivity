@@ -1,0 +1,26 @@
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-3}}
+\begin{tabular}{lllll}
+\toprule
+X1 & \multicolumn{1}{c}{X2} & \multicolumn{1}{c}{X3} & \multicolumn{1}{c}{X4} & \multicolumn{1}{c}{X5}\\
+\midrule
+Self-Construal Scale (SCS) & Individual & Direct & Univariate & NA\\
+Team Descriptive Index (TDI) & Team & Indirect & Univariate & NA\\
+Behavioral Observations & Either & Direct & Either & NA\\
+Inter-position Collaboration (IPCl) & Team & Indirect & Bivariate & Density\\
+Inter-Position Coordination (IPCd) & Team & Indirect & Bivariate & Clustering\\
+Inter-task Coordination (ITC) & Team & Indirect & Univariate & Path Length\\
+Syntactic Dependency (SD) & Either & Direct & Univariate & Degree\\
+Workflow Dependency (WFD) & Individual & Indirect & Bivariate & Degree\\
+Coordination work dependency (CWD) & Individual & Indirect & Bivariate & Degree\\
+Clustering of Logical Dependency (CDL) & Individual & Indirect & Univariate & Clustering\\
+Number of Logical Dependencies (NLD) & Individual & Direct & Univariate & Degree\\
+\bottomrule
+\end{tabular}
+\end{threeparttable}
+\end{center}
+\end{table*}

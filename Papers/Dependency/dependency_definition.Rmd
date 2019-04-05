@@ -1,0 +1,8 @@
+---
+output: pdf_document
+---
+# Defining Dependency
+
+It is startling to us that despite dependency's apparent importance to teams individuals and their outcomes, we have found no clear previous definition of dependency in the literature. Despite this fact it has been used in studies as a core component or even eqivilant to verious consturcts such as interdependency, cooperation, coordination, collaboration, teamwork, task assignment, and task pre-requisits (rrr), to name a few. 
+
+For the pupose of this paper, we define dependency as \textit{A relationship between some object of dependency and source of dependency such that performance of the object is influenced by performance of the source of dependency}. We do not claim that this is the only way or the best way to define dependency; it is simply a workable starting point that is broad enough to encompas the measures of dependecy we are interested in. The pupose of this paper is primarliy to start discores on the topic of dependency in collective performance by reviewing measures of dependency and providing a framekwork that can be used to evaluate the similarities and differences between verious applications of the notion of dependency.

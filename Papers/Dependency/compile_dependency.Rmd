@@ -64,17 +64,19 @@ knitr::opts_chunk$set(fig.path = 'figures/', echo = FALSE, warning = FALSE, mess
 ```
 
 
-```{r child = 'dependency_taxonomy.Rmd'}
-```
-
 ```{r results='asis'}
 table = data.frame(matrix(c("Self-Construal Scale (SCS)","Team Descriptive Index (TDI)","Behavioral Observations", "Inter-position Collaboration (IPCl)", "Inter-Position Coordination (IPCd)","Inter-task Coordination (ITC)","Syntactic Dependency (SD)", "Workflow Dependency (WFD)","Coordination work dependency (CWD)", "Clustering of Logical Dependency (CDL)", "Number of Logical Dependencies (NLD)", "Individual","Team", "Either","Team","Team","Team", "Either","Individual","Individual","Individual","Individual", "Direct","Indirect", "Direct","Indirect","Indirect","Indirect","Direct","Indirect","Indirect","Indirect","Direct","Univariate","Univariate","Either","Bivariate","Bivariate","Univariate","Univariate","Bivariate","Bivariate","Univariate","Univariate","NA","NA","NA","Density","Clustering","Path Length","Degree","Degree","Degree","Clustering","Degree"),ncol = 5))
 #names(table) = c("Index","Level of Analysis", "Direct / Indirect", "Univariate / Bivariate", "Network Characteristic")
 apa_table(table, escape = FALSE)
 
 ```
+```{r child = 'dependency_definition.Rmd'}
+```
 
 ```{r child = 'dependency_indices.Rmd'}
+```
+
+```{r child = 'dependency_taxonomy.Rmd'}
 ```
 
 ```{r child = 'dependency_conclusion.Rmd'}
