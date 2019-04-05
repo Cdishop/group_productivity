@@ -24,7 +24,7 @@ author_note: |
   Author1, Department of Psychology, Michigan State University; Author2, Department of Psychology, Michigan State University.
 
 abstract: |
-  Dependence relationships in teams are a crucial factor to consider in the study of performance. Highlighting this fact, various organizational researchers have dicused the importance of dependnecy and numerous fields have independenly studied the notion of dependency. Many methods have been used to both measure and manipulate dependency; however, to-date there is no clear taxonomy which can be used to compare various methods of measuring dependency or distinguish what is meant by dependency. Without such a framework it is difficult to compare results or make generalized claims about dependency. In the present paper we propose a theoretical taxonomy which will provide a common language that can be used to precisely describe dependency, and dependency measures. This taxonomy will enabling greater precision in future dependency research. As part of this taxonomy we contribute to the theory of organizational dependency by describing a theoretical framework for what a dependency is and how it incorperates other related consturcts such as colaboeration, cooperation, and coordination. After providing our taxonomy, we review measures of dependency that have been employed in the organizational literature and provide suggestions as to the best use of these measures. We conclude with suggestions of promising future research directions in the are of organizational dependency.
+  Dependency relationships in teams are a crucial factor to consider in the study of performance. Highlighting this fact, various organizational researchers have discussed the importance of dependency. Additionally numerous other fields have independently studied the notion of dependency. Many methods have been used to both measure and manipulate dependency; however, to-date there is no clear taxonomy which can be used to compare various methods of measuring dependency or distinguishing what is meant by dependency. Without such a framework, it is difficult to compare results or make generalized claims about dependency. In the present paper, we propose a theoretical taxonomy  as a common language that can be used to precisely describe dependency and dependency measures. This taxonomy will facilitate greater precision in future dependency research. As part of this taxonomy, we describe  a theoretical framework for what a dependency is and how it incorporates other related constructs, such as collaboration, cooperation, and coordination. After providing our taxonomy, we review measures of dependency that have been employed in the organizational literature and provide suggestions as to the best use of these measures. We conclude with suggestions of promising future research directions within organizational dependency.
 
 keywords          : "Dependecy, Perfomance, Teams, Tasks"
 wordcount         : "1"
@@ -66,15 +66,26 @@ knitr::opts_chunk$set(fig.path = 'figures/', echo = FALSE, warning = FALSE, mess
 
 ```{r results='asis'}
 table = data.frame(matrix(c("Self-Construal Scale (SCS)","Team Descriptive Index (TDI)","Behavioral Observations", "Inter-position Collaboration (IPCl)", "Inter-Position Coordination (IPCd)","Inter-task Coordination (ITC)","Syntactic Dependency (SD)", "Workflow Dependency (WFD)","Coordination work dependency (CWD)", "Clustering of Logical Dependency (CDL)", "Number of Logical Dependencies (NLD)", "Individual","Team", "Either","Team","Team","Team", "Either","Individual","Individual","Individual","Individual", "Direct","Indirect", "Direct","Indirect","Indirect","Indirect","Direct","Indirect","Indirect","Indirect","Direct","Univariate","Univariate","Either","Bivariate","Bivariate","Univariate","Univariate","Bivariate","Bivariate","Univariate","Univariate","NA","NA","NA","Density","Clustering","Path Length","Degree","Degree","Degree","Clustering","Degree"),ncol = 5))
-#names(table) = c("Index","Level of Analysis", "Direct / Indirect", "Univariate / Bivariate", "Network Characteristic")
+names(table) = c("Index","Level of Analysis", "Direct / Indirect", "Univariate / Bivariate", "Network Characteristic")
 apa_table(table, escape = FALSE)
 
 ```
+
 ```{r child = 'dependency_definition.Rmd'}
 ```
 
 ```{r child = 'dependency_indices.Rmd'}
 ```
+```{r results='asis'}
+table2 = data.frame(matrix(c("It is important for me to maintain harmony within my group","If my borther or sister fails I feel responsible", "I will sacrifice my self interest for the benefit of the group I am in", "I often have the feeling that my relationshisp with others are more important than my own accomplishments ","My personal identity independent of others is very important to me"),ncol = 1))
+names(table2) = c("Item")
+table3 = data.frame(matrix(c("CAN NOT FIND ITEMS RIGHT NOW"),ncol = 1))
+names(table3) = c("Item")
+apa_table(table2, escape = FALSE)
+apa_table(table3, escape = FALSE)
+
+```
+
 
 ```{r child = 'dependency_taxonomy.Rmd'}
 ```

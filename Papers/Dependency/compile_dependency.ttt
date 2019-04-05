@@ -6,7 +6,7 @@
 \caption{\label{tab:unnamed-chunk-3}}
 \begin{tabular}{lllll}
 \toprule
-X1 & \multicolumn{1}{c}{X2} & \multicolumn{1}{c}{X3} & \multicolumn{1}{c}{X4} & \multicolumn{1}{c}{X5}\\
+Index & \multicolumn{1}{c}{Level of Analysis} & \multicolumn{1}{c}{Direct / Indirect} & \multicolumn{1}{c}{Univariate / Bivariate} & \multicolumn{1}{c}{Network Characteristic}\\
 \midrule
 Self-Construal Scale (SCS) & Individual & Direct & Univariate & NA\\
 Team Descriptive Index (TDI) & Team & Indirect & Univariate & NA\\
@@ -19,6 +19,42 @@ Workflow Dependency (WFD) & Individual & Indirect & Bivariate & Degree\\
 Coordination work dependency (CWD) & Individual & Indirect & Bivariate & Degree\\
 Clustering of Logical Dependency (CDL) & Individual & Indirect & Univariate & Clustering\\
 Number of Logical Dependencies (NLD) & Individual & Direct & Univariate & Degree\\
+\bottomrule
+\end{tabular}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-6}}
+\begin{tabular}{l}
+\toprule
+Item\\
+\midrule
+It is important for me to maintain harmony within my group\\
+If my borther or sister fails I feel responsible\\
+I will sacrifice my self interest for the benefit of the group I am in\\
+I often have the feeling that my relationshisp with others are more important than my own accomplishments\\
+My personal identity independent of others is very important to me\\
+\bottomrule
+\end{tabular}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-6}}
+\begin{tabular}{l}
+\toprule
+Item\\
+\midrule
+CAN NOT FIND ITEMS RIGHT NOW\\
 \bottomrule
 \end{tabular}
 \end{threeparttable}
