@@ -1,0 +1,78 @@
+
+
+
+The nature of work is changing such that the connections between actors are increasingly relevant levers for understanding and benefiting from human capital. Five times as many Americans are employed in service jobs compared to those in manufacturing and production [@ford_service-dominant_2008; @parker_future_2001], signaling the shift from a manufacturing economy of additive tasks to a market economy of knowledge and service in which organizational success is driven by the complex interplay between customers, employees, and stakeholders. Changes in information, communication, and transportation technology fueled flatter firm hierarchies, virtual and telework, and teams as the building blocks of modern organizations [@mathieu_review_2014] where employees must manage work flows and coordinate their activities to perform at high levels [@kozlowski_groups_2012]. Organizational scientists now emphasize questions about connections and interdependence among employees who collaborate with and receive feedback from their coworkers [@grant_7_2009] because the interplay of task and social relations among team members is thought to either relate to outcomes such as collective efficacy, cohesion, behavioral processes, and performance [@courtright_structural_2015] or create the context in which team behaviors unfold through time [@marks_temporally_2001; @baard_performance_2014]. Understanding the nature of dependence among actors will enable organizations to better design, train, develop, and motivate personnel for effective teamwork, whereas endeavors that fail to consider interdependence have "little relevance to building knowledge in the work groups and team literatures" [kozlowski2003work, p. 363].
+
+Interdependence or dependency (defined later) has received increasing attention among organizational researchers, and most tie their work in some way to the notions of Thompson's (1967) task workflows, Mohr's (1971) writing on the extent to which individuals perceive that they have "one person" jobs, or Penning's (1975) bases of interconnectedness. Bell and Kozlowski [-@bell_typology_2002] present a typology of virtual teams where interdependency is one of the main features distinguishing different team types; @morgeson2012work and @grant_7_2009 review the work design literature and present task interdependence as a key feature for understanding organizational behavior; @kiggundu_task_1981 presents a theory of how interdependence relates to feelings of responsibility to one's work; @lenox_interdependency_2007 use interdependence in their theory on why firms rise and fall within an industry over time; and @puranam_organization_2012 theorize about the relationships between organization design, information processing, and interdependence. Empirical studies on interdependence, both as a predictor and outcome, slowed after initial reports by @ven_determinants_1976 and @cheng_interdependence_1983 but have recently reemerged in the literature [e.g., @de_dreu_cooperative_2007; @grant_significance_2008; @hertel_managing_2004].  
+
+Although these reviews, theories, meta analyses, and empirical studies have increased our understanding of interdependence and its role in organizational behavior, its measurement and operationalization have yet to be unified or organized. Items sometimes measure interdependence without attending to (and perhaps confounding) its various directions, such as initiated and received (kugg) or reciprocal (cite). There are different domains that it can apply to, such as role, task, or outcome dependence (cite), different levels of abstraction, such as whether the measure applies to the individual, group, or firm (cite), and has been proposed as a way to create typologies both for teams and tasks (hollenbeck). These ideas have been discussed and worked out conceptually, but the literature contains little guidance on which measures appropriately tap each of these points of emphasis. Finally, the literature contains self reports, observational measures, discrete task counts, pictures used in manager interviews, formal equations for agent-based models, network indices, and algorithms for computing dependence based on task workflows all as methods of indicating the level of interdependence in a given setting. The purpose of this paper is to organize this material, provide a taxonomy of dependency measures, and link measures to specific purposes so that future research can appropriately align measurement with theory. 
+
+ARE WE COUCHING OURSELVES IN PASSIVE MEASURES? WE'RE NOT TALKING ABOUT MANIPULATIONS?
+
+# Interdependence or Dependency
+
+interdependence can come from several sources...it can be enforced or caused by many things: task, process of exectuing work, goals, rewards/incentives (wageman, 1995). 
+
+### Task interdependence
+van de ven, Belbecq, Koenig 1976 - task interdependence (based on thompson and Mohr)
+extent to which unit personnel are dependent upon one another to perform their individual jobs
+
+cheng 1983 - interdependence (based on thompson and Mohr)
+extent to which the organization's task requires its members to work with one another
+
+wageman, 1995 - task interdependence
+means by which work is accomplished. 
+degree to which the task requires collective action
+
+(a) characteristic of the work
+
+thompson: assembly line work is inherently sequential
+
+(b) characteristic of the way people behave
+
+Shea & Guzzo (1989) assembly line workers who help each other are more task interdependent than those who do not. 
+
+
+Morgeson, Garza, & Campion (2012) - interdependence
+degree to which job depends on others and others depend on it to complete the work
+reflects the structural "connectedness"
+extent to which a job has tasks that flow from other jobs
+morgeson & humphrey 2006 differentiate initiated vs. received
+the job requires me to accomplish my stuff first vs.  my job activities require others...
+
+hertel, konradt, & orlikowski, 2004 - task interdependence
+when high, team members work closely together, must coordinate activities frequently, and within which the way one member accomplishes his or her task has strong impliciations on the work processes of other team members. 
+group members work closely with each other in doing their work
+GROUP LEVEL MEASURE
+
+Pearce & Gregersen, 1991 - task interdependence
+doesn't define task interdependence (notionally similar to Thompson and Kiggundu)
+first 5 itemes = reciprocal interdependence at individual level
+3 items = independence
+
+Liden, Wayne, & Bradway, 1997
+task interdependence: degree to which completing tasks requires the interaction of group members (Shea & Guzzo, 1987). 
+Group level measure
+
+Hirst 1988 - task interdependence (couched in Thompson 1967)
+connectedness of tasks. Varies in complexity from pooled to reciprocal. 
+
+Wong & Campion 1991
+
+A task represents certain processes in which the worker, through his or her actions, transforms inputs into outputs meaningful to the goals of the job by using tools, equipment, or work aids. 
+
+A job is an aggregation of tasks assigned to a worker. When the same set of tasks are performed by  more than one worker, those workers are said to have the same job.
+
+task interdependence
+extent to which the inputs, processes, or outputs of the task affect or depend on the inputs, processes, or outputs of other tasks within the same job. 
+
+
+
+
+
+couching ourselves in task dependency. Not outcome dependency
+
+Also couching ourselves in that we are focused on dependency in teams
+
+# dependency as a defining feature of teams
+
