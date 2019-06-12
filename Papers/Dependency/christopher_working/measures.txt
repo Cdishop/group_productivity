@@ -1,0 +1,379 @@
+our taxonomy (potentially)
+individual vs. team (or both)
+task vs. outcome (or both)
+
+measurement study / item analysis yes vs. no
+able to detect tie direction (My work depends on other tasks...so you can identify dependence, but not its direction)
+
+
+# network indices
+
+
+# self reports
+
+### 1 positive outcome interdependence
+
+Janssen, Vliert, and Veenstra, 1999
+Characteristic for our team was that (a) goal attainment for one team member facilitated goal attainment for others; (b) success for one team member implied success for others; (c) benefits for one team member involved benefits for others; and (d) gain for one team member meant gain for others
+
+### 2 task interdependence
+
+Van de Ven, Delbecq, and Koenig, 1976
+
+(a) Thompson's 1967 workflow
+
+Indicate what percent of the total work within your unit flows in each of the ways shown by this figure...
+
+(1) independent work flow
+
+where work and activities are performed by your immediate subordinates independently and do not flow between them (give percent)
+
+(2) sequential work flow
+
+where work and activities flow between your immediate subordinates, but only in one direction (give percent)
+
+(3) reciprocal work flow
+
+where work and activities flow between your immediate subordinates in a reciprocal "back and forth" manner over a period of time.
+
+(4) team work flow
+
+where work and activities come into your unit and your immediate subordinates diagnose, problem-solve, and collaborate as a group at the same time to deal with the work.
+
+(b) Mohr's 1971 task interdependence
+
+- to what extent do people in this unit have one-person jobs: that is, in order to get the work out to what extent do unit members independently accomplish their own assigned tasks?
+
+- to waht extent do all the unit members meet together to discuss how each task, case, or claim should be performed or treated in order to do the work in this unit?
+
+### 3 goal interdependence
+
+De Dreu, Carsten, and West (2001)
+- When one or more team members excel in their work, I benefit from that
+
+### 4 cooperative goal interdependence
+
+Zhang, Tjosvold, and Hempel (2007)
+- Our team members "swim or sink" together
+- Our team members want each other to succeed
+- The goals of team members go together
+- When our team members work together, they usually have common goals
+
+### 5 interdependence
+
+Morgeson & Humphrey 2006
+
+(a) initiated interdependence
+
+- the job requires me to accomplish my job before others complete their job
+- other jobs depend directly on my job
+- unless my job gets done, other jobs cannot be completed
+
+(b) received interdependence
+
+- the job activities are greatly affected by the work of other people
+- the job depends on the work of many different people for its completion
+- my job cannot be done unless others do their work
+
+
+### 6 task interdependence
+
+Hertel, Konradt, and Orlikowski, 2004
+
+- Group members work closely with each other in doing their work
+- Group members frequently must coordinate their efforts with each other
+- The way individual members perform their jobs has significant impact upon others in the group
+
+
+### 7 task interdependence
+
+Pearce and Gregersen 1991
+
+(a) reciprocal
+
+- I work closely with others in doing my work
+- I frequently must coordinate my efforts with others
+- My own performance is dependent on receiving accurate information from others
+- The way I perform my job has a significant impact on others
+- My work requires me to consult with others fairly frequently
+
+(b) independent
+
+- I work fairly independently of others in my work
+- I can plan my own work with little need to coordinate with others
+- I rarely have to obtain information from others to complete my work
+
+### 8 task interdependence
+
+Liden, Wayne, and Bradway, 1997
+
+- Group members work closely with each other in doing their work
+- Group members frequently must coordinate their efforts with each other
+- The way individual members perform their jobs has a significant impact upon others in the group
+
+
+### 9 task interdependence
+
+Mohr 1971
+
+(a) supervisor
+
+- my subordinates have one-person jobs; they have little need to check or to work with others (reverse)
+- to do their jobs properly, my subordinates must collaborate extensively with others
+
+(b) worker
+
+- mine is pretty much a one-person job; there is little need for checking or working with others (reverse)
+
+
+### 10 role interdependence
+
+Pennings 1975 (differentiates task, role, social, and skill interdependence...only provides a measure for role interdependence
+
+- generally work alone or with others
+- dependent on others for advise and other decisional inputs
+
+### 11 job interdependence
+
+Wegman, Hoffman, Carter, Twenge, and Guenole (2018)
+
+jobs are interdependent when the people performing them must rely on or collaborate with others to complete their work
+
+work trend survey
+
+- the people I work with cooperate to get the job done
+- other work groups give us the suppport we need to serve our customers
+
+
+### 12 team relatedness
+
+Arthur, Glaze, Bhupatkar, Villado, Bennett, and Rowe, 2012
+
+extent to which part of task work interdependence (mannger in which team members must exchange information and resources to successfully complete their tasks and jobs)
+
+for each task...
+
+1) not required to work with team members for optimal performance
+2) rarely required to work with team members for optimal performance
+3) somewhat required to work with team members for optimal performance
+4) often required to work with team members for optimal performance
+5) very much required to work with team members for optimal performance
+
+### 13 team workflow
+
+Arthur, Glaze, Bhupatkar, Villado, Bennett, and Rowe, 2012
+
+manner in which part of task work interdependence (mannger in which team members must exchange information and resources to successfully complete their tasks and jobs)
+
+for each task...
+
+show van de ven workflow images
+
+1) not a team task/activity
+2) pooled/additive
+3) sequential interdependence
+4) reciprocal
+5) intensive
+
+
+### 14 task interdependence
+
+Lee, Shin, and Kim, 2018
+
+- I cannot accomplish my tasks without information or materials from other members of my team
+- Within my team, jobs performed by team members are related to one another
+
+
+### 15 task interdependence
+
+Campion, Medsker, and Higgs 1993 (work group characteristics measure)
+
+- I cannot accomplish my tasks without information or materials from other members of my team
+- Other members of my team depend on me for information or materials needed to perform their tasks
+- Within my team, jobs performed by team members are related to one another
+
+### 16 goal interdependence 
+
+Campion, Medsker, and Higgs 1993 (work group characteristics measure)
+
+- My work goals come directly from the goals of my team
+- My work activities on any given day are determined by my team's goals for that day
+- I do very few activities on my job that are not related to the goals of my team
+
+### 17 interdependent feedback and rewards
+
+Campion, Medsker, and Higgs 1993 (work group characteristics measure)
+
+- Feedback about how well I am doing from my job comes primarily from information about how  well the entire team is doing
+- My performance evaluation is strongly influenced by how well my team performs
+- Many rewards from my job (e.g., pay, promotions, etc.) are determined in large part by my contributions as a team member
+
+
+### 18 task interdependence
+
+Wong and Campion 1991
+
+(a) input
+
+- one task obtains, stores, or prepares the materials or supplies necessary to perform the other task
+- one task obtains or generates information for the other task
+- one task stores, implements, or handles the products or services produced by the other task
+
+(b) process
+
+- the products (or outputs) of one task are the supplies (or inputs) necessary to perform the other task
+- one task plans the procedures or work methods for the other task
+- one task schedules the activities of the other task
+- one task reviews or checks the quality of products or services produced by the other task
+- one task needs to be performed before the other task
+- some of the work activities of the two tasks must be performed at the same time
+- the purpose of one task is to support or otherwise help the other task get performed
+- one task produces or maintains the tools or equipment used by the other task
+
+(c) output
+
+- one task can be accomplished only when the other task is properly performed
+- how well one task is performed has a great effect on how well the other task can be performed
+- the quality of the product or service produced by one task depends on how well the other task is performed
+
+
+
+
+# TDI - don't think we should use
+
+stability - team has been together for a long time vs not
+authority differentiation - one formal leader vs. no real leader
+skill differentiation - team members have unique skills and contacts vs. even untrained people could perform almost all of the tasks
+
+
+# Theoretical indices
+
+### 1 collaboration and coordination
+
+O'Brien 1968
+
+(a) collaboration
+
+extent to which two or more people operate on the same task
+extent of joint responsibility (tug of war has very high collaboration)
+
+Index: sum of entries in the task allocation matrix
+- independent tasks = 0
+- 2 people and 2 tasks. 1 person works on task A, both people work together on task B = 0.5
+- everybody works on every task = 1
+
+Not workflow, but combining effort simultaneously
+
+(b) coordination
+
+extent to which you need sequencing, where one thing must be completed to get to the next
+extent to which subtasks need to be sequenced or depend on one another
+index of definite precedence relationships
+in the entire network of tasks, the extent to which tasks require other tasks either from other people or other time points
+
+for a given individual, how many subtasks do they require? Sum that notion across all individuals. 
+
+lower when people do not need prior tasks
+greater when people require prior tasks before completing their own
+
+team A and team B have the same number of people and the same number of tasks and the same number of required subtasks for each task. In team A, John completes his own subtasks, whereas in team B, all members require subtasks from other members. In team B, the coordination index will be slightly higher. 
+
+look at images A and B. In both networks, there are 3 subtasks that need to be complete (t4 requires t3, t3 requires t2, and t2 requires t1). In a, there is a straight transfer from person 1 to person 2, whereas in b there are two switches: John requires a subtask from Jamal, and Jamal then needs a subtask from John. When that switching happens, the index increases slighty. 
+
+
+### 2 outcome interdependence
+
+Victor and Blackburn 1987
+
+Theory of interdependence using notions of fate, behavior, and reflexive control. They use that terminology, but their concepts can be understood using game theory matrix set ups and the idea of outcome interdependence: how do rewards get allocated?
+
+Interunit dependence is defined as the extent to wihch a node's outcomes are controlled directly by or are contingent upon the actions of another node. 
+
+(a) reflexive control
+
+Susie has reflexive control when changing from one action to another, within the same action row of the other player, changes her payoff. In other words, given a strategy by Mark, when Susie changes from one action to another, her payoff changes. 
+
+when players have reflexive control, their individual actions influence their own performance. 
+
+a matrix where both players have reflexive control corresponds to a pooled workflow in the lingo of Thompson. 
+
+(b) fate control
+
+I'm Victor, and the other player is Jill. Jill has fate control over me, Victor, when her choosing a strategy always results in a better (or worse) outcome for me. I choose either handshake or high-five, she chooses either smile at me or frown and ignore me. When I choose handshake, my payoff or outcome is greater when she chooses to smile at me. When I choose high-five, my payoff or outcome is greater when she chooses to smile at me. In both cases, my payoff was greater through one of her actions, she had some control over the events. That's the notion of fate control.
+
+Adding fate control to the matrix, along with reflexive corresponds to the sequential interdependence notion from Thompson
+
+When reflexive actions correspond with fate control actions = correspondent
+When reflexive actions differ from fate control actions = non correspondent 
+
+ID index going from 0 to -1 = increasingly non correspondent. 
+ID index going from 0 to 1 = increasingly correspondent.
+
+As the amount of fate and behavioral control increase relative to refelxive control (as the amount of my outcomes are increasingly under the influence of the other player's actions) the index approaches 1. 
+
+(c) behavior control
+
+My outcomes are contingent upon, but not completely determined by, the other player's actions. 
+
+when you add behavior control to the matrix, you get reciprocal interdependent in the lingo of thompson
+
+
+
+
+aeser role theory
+nk model of interdependence
+
+
+# Other measures / things we are not talking about 
+
+Task reflexivity (De Dreu, 2007)
+- The team often reviews its objectives
+- The mtehods used by the team to get the job done are often discussed
+- We regularly discuss whether the team is working effectively together
+- In this team, we modify our objectives in light of changing circumstances
+
+Information sharing (De Dreu, 2007)
+- Communicating is a problem in my team
+- Members of my team inform each other about work-related issues
+- The quality of information exchange in our team is good
+- I get new facts, insights, and ideas from my colleagues
+- During work meetings we tell each other what we knew already and do ourselves during team meetings
+- We do not repeate ourselves during team meetings
+
+Learning from one another (De Dreu, 2007)
+- Team members learn a lot from each other
+- My team learns from mistakes and errors
+- Team members ask and give each other feedback
+
+
+task uncertainty (Van de ven)
+
+steepness or hierarchy amount (Carpenter, 1971)
+
+org structure (dalton, todor, spendolini, fielding, porter, 1980)
+- size 
+- span of control
+- flat/tall hierarchy
+- administrative intensity
+- specialization
+- formalization
+- centralization
+
+
+Things that cause managers to perceive dependence (Mccan and Ferry 1981): resources passed between units, amount of resources exchanged per unit of time, frequency of transactions per unit of time. How those lead to disagreements, and how those disagreements produce conflict. 
+
+
+relatedness among firms (Fan & Lang, 2000) - can one firms products serve as anothers resources? Do they share any of the market?
+
+statistical Models of interdependence, such as the actor partner model of dyadic relationships (cook & kenny, 2005). 
+
+communication/cooperation between work groups (campion, someone, higgs 1993)
+- I frequently talk to other people in the company besides the people on my team
+- There is little competition between my team and other teams in the company
+- Teams in the company cooperate to get the work done
+
+workload sharing (campion, someone, higgs, 1993)
+- everyone on my team does their fair share of the work
+- no one in my team depends on other team members to do the work for them
+- nearly all the members on my team contribute equally to the work
+

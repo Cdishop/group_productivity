@@ -1,3 +1,20 @@
+1) network indices
+
+2) self reports
+
+thompson
+arther
+morgeson
+
+3) TDI
+
+what is it?
+
+4) o'brien, aeser role theory, game theory set up for goal interdependence
+
+
+
+
 
 # Daniel's taxonomy:
 
@@ -38,8 +55,33 @@ based on count, size, or strength of dependence relationships, without regard to
 
 ### interrelatedness
 
-not sure
+reciprocity. If John is connected to Rick, is Rick connected to John?
+
+hierarchy
+
+directionality
+
+transitivity
+
+cycle closure
 
 ### Sequentiality
 
+
+
+
+# Metrics for networks
+
+Centrality
+Degree
+Betweenness
+Closeness
+PageRank
+Motif
+Clustering
+Degree distribution
+Assortativity
+Distance
+Modularity
+Efficiency
 
