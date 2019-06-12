@@ -1,0 +1,45 @@
+
+# Daniel's taxonomy:
+
+Axis 1: level of analysis
+
+individual 
+team
+
+Axis 2: structure
+
+magnitude
+inter-relatedness
+sequences
+
+
+## Flesh that out further
+
+(a) Axis 1
+
+individual - measures that apply only to a single measure (person, role, or task)
+team - measures that apply to the entire team at once
+
+
+Aggregation is its own discussion
+
+
+(b) Axis 2
+
+### magnitude
+
+based on count, size, or strength of dependence relationships, without regard to the distribution of connections or their location.
+
+1) count of connections. How many nodes does John connect to? In-degree = received interdependence. Out-degree = initiated interdependence
+
+2) size of connections. Not sure
+
+3) strength of connections. How strong is the tie between John and the other node? How many connections are there in the network compared to the total possible number of connections?
+
+### interrelatedness
+
+not sure
+
+### Sequentiality
+
+
