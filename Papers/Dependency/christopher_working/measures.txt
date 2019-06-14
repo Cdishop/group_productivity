@@ -5,8 +5,30 @@ task vs. outcome (or both)
 measurement study / item analysis yes vs. no
 able to detect tie direction (My work depends on other tasks...so you can identify dependence, but not its direction)
 
+recommended use
+
 
 # network indices
+
+
+(a) density
+
+how connected is the group compared to what it could be?
+ratio of connections present to total possible network connections
+
+(b) degree
+
+number of connections a given node has
+
+(c) transitivity
+
+perfect transitivity means that if X is connected to Y and Y is connected to Z, then X is connected to Z as well. It implies groups or clustering.
+
+(d) path length
+
+average number of steps between two nodes across the entire network. Measures easiness of information transport. 
+
+
 
 
 # self reports
@@ -246,7 +268,31 @@ authority differentiation - one formal leader vs. no real leader
 skill differentiation - team members have unique skills and contacts vs. even untrained people could perform almost all of the tasks
 
 
+
+
 # Theoretical indices
+
+
+What do the indices represent?
+task interdependence
+- given a task network, to what extent are people working the same tasks? (collaboration)
+++ if you wanted to make it individual, just count the number of people working on a single task
+- given a task network, to what extent are there precedence relationships? (coordination (could be team or individual level))
+outcome interdependence
+- what are the rewards given task choices by agents? (number within matrix)
+- extent to which the rewards/outcomes/payoff of my task choices are determined or influenced by other's task choices (ID index)
+- are the rewards for my individual task choices coordinated with the rewards for the other player's task choices? (ID index)
+
+nk model
+scaling notion (think baby weight and medicine). 
+Number of tasks that this focal task depends on (one dimension) and possible effects that can have on performance (the other dimension). 
+When the focal task depends on only one other task, then there are 4 possible "task arrangements" that result in different performance values. Increase the number of tasks that the focal task depends on, so we increased dimension 1 by one unit, but the other dimension goes up exponentially. There are now many many more potentially different performance values. 
+Now an index, but a way to formally express the increasing complexity of the effects task arrangements can have on performance as the tasks start to depend on one another. 
+
+
+
+
+
 
 ### 1 collaboration and coordination
 
@@ -279,6 +325,12 @@ greater when people require prior tasks before completing their own
 team A and team B have the same number of people and the same number of tasks and the same number of required subtasks for each task. In team A, John completes his own subtasks, whereas in team B, all members require subtasks from other members. In team B, the coordination index will be slightly higher. 
 
 look at images A and B. In both networks, there are 3 subtasks that need to be complete (t4 requires t3, t3 requires t2, and t2 requires t1). In a, there is a straight transfer from person 1 to person 2, whereas in b there are two switches: John requires a subtask from Jamal, and Jamal then needs a subtask from John. When that switching happens, the index increases slighty. 
+
+
+
+
+
+
 
 
 ### 2 outcome interdependence
@@ -320,8 +372,87 @@ when you add behavior control to the matrix, you get reciprocal interdependent i
 
 
 
-aeser role theory
-nk model of interdependence
+
+
+
+
+### 3 structural role theory
+
+Oeser and Frank 1962
+Oeser and Frank 1964
+Oeser and O'Brien 1967
+
+(a) foundations in the 1962 paper
+
+A way of specifying tasks, positions, and roles with graphs and matrices. A formal model of task allocations, roles, and task precedence relationships for the purpose of representing group structure, how individual tasks relate to the entire system of task elements in a team, logically describing group processes over time as a set of relations among task elements, and a classification system for comparative analysis. 
+
+(b) task by person matrix in the 1964 paper
+
+equivalent to O'Brien's collaboration index, but from the perspective of time allocation per person rather than number of people on a given task.
+
+I spend 30% of my time on task A, whereas Rachel spends 90% of her time on task A. We work together simultaneously, but she allocates more time to that task (in relation to all of her other tasks) than I do (in relation to all of my other tasks). 
+
+Implications
+- if two people share the same task, informal relationships will develop (potential for positive or negative)
+- to the extent that they allocate different amounts of time, the relationship will be perceived as unfair
+
+(c) task by task matrix in the 1967 paper
+
+equivalent to O'Brien's inter coordination index, to what extent are there task precedence relationships?
+
+t1 => t2 => t3 => t4 (situation 1)
+
+situation 2
+t1 => t4
+t2 => t4
+t3 => t4
+
+situation 1 demands greater inter coordination
+
+
+They also have an index for representing different routes to completion. In many cases, different task routes can be used to complete the same objective.
+
+
+
+
+
+
+
+
+
+### 4 NK model of interdependence
+
+
+For any industry, there exists an optimal arrangement of activities. They provide examples of activies such as adopting just-in-time logistics, forgoing piece rate payments, uses quality sampling, encourages integrated work teams, and refuses to offer stock options. They view the activities as all possible strategic organization decisions, but they could also be tasks or precedence relationships. 
+
+[011] = don't use weekly meetings, use teams, use team-based goals. Each of these has a corresponding performance value: not using weekly meetings might have a value of 0.3 whereas using weekly meetings has a performance value of 0.9.
+
+They define an optimal arrangement of activities for a given industry...to what extent does the organziation's arrangement of activities match the environment-defined optimal? Those firms do better and survive. 
+
+No problem when the activities are independent. But when they are dependent, "use weekly meetings" may not provide 0.9, it depends on whether the other activities are active or not active. 
+
+Let's say "use weekly meetings" (A) depends on "using teams" (B). Then we have vector [A, B], with corresponding orientations of activations [0, 0], [1, 0], [0, 1], [1, 1]. Each orientation might provide A with a different performance value. In other words, its contribution to performance depends on the state of the activities it depends on. 
+
+Now let's say "use weekly meetings" depends not only on B, also on activity C. Now we have the vector [A, B, C] with corresponding orientations of activations [0, 0, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0], [0, 1, 1]...etc. and each gets a potentially different performance value. 
+
+This index of interdependence is a way of describing contributions to performance.
+
+Not a way of characterizing the nature of workflow with respect to a system of tasks, but a way of characterizing the complexity of task interactions as the number of tasks or activities increases and the number of different results an activity/task can have on performance -- or any other outcome -- given the nature of the tasks it depends on. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Other measures / things we are not talking about 
@@ -376,4 +507,18 @@ workload sharing (campion, someone, higgs, 1993)
 - everyone on my team does their fair share of the work
 - no one in my team depends on other team members to do the work for them
 - nearly all the members on my team contribute equally to the work
+
+
+
+Roby & Lanzetta 1958
+- a way of describing the different properties of a task (but not the patterned workflow among different tasks)
+- they do provide a person by person communication exchange matrix and a person by task allocation matrix, but there is no index given.
+- also established as a way to classify laboratory tasks, not real-world tasks
+
+
+
+Morrissette, Pearson, and Switzer 1965
+- entropy as a measure of task difficulty
+
+
 
