@@ -1,0 +1,62 @@
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-4}}
+\begin{tabular}{l}
+\toprule
+Item\\
+\midrule
+It is important for me to maintain harmony within my group\\
+If my borther or sister fails I feel responsible\\
+I will sacrifice my self interest for the benefit of the group I am in\\
+I often have the feeling that my relationshisp with others are more important than my own accomplishments\\
+My personal identity independent of others is very important to me\\
+\bottomrule
+\end{tabular}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-4}}
+\begin{tabular}{l}
+\toprule
+Item\\
+\midrule
+CAN NOT FIND ITEMS RIGHT NOW\\
+\bottomrule
+\end{tabular}
+\end{threeparttable}
+\end{center}
+\end{table*}
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[tbp]
+\begin{center}
+\begin{threeparttable}
+\caption{\label{tab:unnamed-chunk-6}}
+\begin{tabular}{lllll}
+\toprule
+Index & \multicolumn{1}{c}{Level of Analysis} & \multicolumn{1}{c}{Direct / Indirect} & \multicolumn{1}{c}{Univariate / Bivariate} & \multicolumn{1}{c}{Network Characteristic}\\
+\midrule
+Self-Construal Scale (SCS) & Individual & Direct & Univariate & NA\\
+Team Descriptive Index (TDI) & Team & Indirect & Univariate & NA\\
+Behavioral Observations & Either & Direct & Either & NA\\
+Inter-position Collaboration (IPCl) & Team & Indirect & Bivariate & Density\\
+Inter-Position Coordination (IPCd) & Team & Indirect & Bivariate & Clustering\\
+Inter-task Coordination (ITC) & Team & Indirect & Univariate & Path Length\\
+Syntactic Dependency (SD) & Either & Direct & Univariate & Degree\\
+Workflow Dependency (WFD) & Individual & Indirect & Bivariate & Degree\\
+Coordination work dependency (CWD) & Individual & Indirect & Bivariate & Degree\\
+Clustering of Logical Dependency (CDL) & Individual & Indirect & Univariate & Clustering\\
+Number of Logical Dependencies (NLD) & Individual & Direct & Univariate & Degree\\
+\bottomrule
+\end{tabular}
+\end{threeparttable}
+\end{center}
+\end{table*}

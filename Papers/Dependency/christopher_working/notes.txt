@@ -1,0 +1,45 @@
+A critical review of structural interdependence measures and indices
+
+
+# critiques
+
+## multi level
+
+reciprocal is just taken as reciprocal. But there is no theory of aggregation or compilation. 
+
+same with team level stuff
+
+most task work flow stuff is assessed at the team level. It is not asssessed for an individual task and then compiled somehow into higher levels. 
+
+## task flow thompson 
+
+is the output 4 unique things or 1 product...if it's 1 product, how does it become combined?
+
+Thompson's images are confounded...task flow but also how the task product is aggregated (4 vs. 1 arrow)
+
+## wood
+
+things that can change over time with respect to interdependence and products: (1) the set of acts / tasks required, (2) the arrangement of acts / tasks required, (3) the relationship between tasks and product/output. In situations with greater stochastics, the same workflow arrangement may not produce the same product. 
+
+## cause interdependence
+
+outcome interdependence is about the extent to which goals are at the team rather than individual level. That's a statement about goals, which is thought to cause interdependence. Not sure if it is appropriate to call "team goals" the same thing as the concept that is causes, which is interdependence.
+
+
+
+# Daniel's taxonomy
+
+1) magnitude
+
+Count the number of links. (arthur notion of continuous or amount)
+
+2) Interreladenss or motif or theme or trope
+
+categorize into a pattern (arthur notion of type)
+
+3) sequentiality
+
+how many different tasks will be influenced if a specific task fails?
+To me, this is an outcome of task linkages
+
+think propagation...if something is an indicator of the propagation of errors, is that an indicator of interdependence?
