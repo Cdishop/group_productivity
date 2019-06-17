@@ -25,6 +25,22 @@ things that can change over time with respect to interdependence and products: (
 
 outcome interdependence is about the extent to which goals are at the team rather than individual level. That's a statement about goals, which is thought to cause interdependence. Not sure if it is appropriate to call "team goals" the same thing as the concept that is causes, which is interdependence.
 
+## task vs job self reports
+
+according to some, a job is an accumulation of tasks. so task interdependence and job interdpeendence should be different things.
+
+Currently, they are classified as separate things. 
+
+## task vs. person self reports
+
+Kiggundu (1981): initiated = degree to which work flows from a partiulcar job to one or more other jobs
+
+Granter and Parker (2009) = occursd when work flows from the focal employee to others
+
+## use these theoretical indices in the field
+## to what extent do the theoretical indices match the self reports?
+## To what extent do the indices, if established in the way the authors describe, actually lead to the relationships they theorize about?
+
 
 
 # Daniel's taxonomy
