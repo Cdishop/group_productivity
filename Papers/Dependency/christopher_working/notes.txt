@@ -59,3 +59,48 @@ how many different tasks will be influenced if a specific task fails?
 To me, this is an outcome of task linkages
 
 think propagation...if something is an indicator of the propagation of errors, is that an indicator of interdependence?
+
+
+# Definitions of tasks and roles
+
+Wong & Campion 1991
+
+A task represents certain processes in which the worker, through his or her actions, transforms inputs into outputs meaningful to the goals of the job by using tools, equipment, or work aids. 
+
+A job is an aggregation of tasks assigned to a worker. When the same set of tasks are performed by more than one worker, those workers are said to have the same job. 
+
+Oeser and Frank 1964
+
+A task is something that has to be done
+Person: a human being who has no relationships to other human beings except for those laid down by the rules of his office, and no characteristics other than those prescribed for assigning him to the occupancy of a given position.
+
+position: a location on an organization chart, a concept which medaites between persons and the tasks they, as a group, have to perform. In partiulcar, a position specifieds (a) the set of characteristics or abilities required of a person assigned to it so that he can carry out the tasks allocated to that position; (b) the ways in which he is required to interact with other persons in other positions carrying out their sections of the total set of tasks
+
+
+Steiner 2007
+
+task: not a specific pattern of behaviors but a specification of the goal to be achieved and the procedures for achieving it
+
+
+Arthur et al. 2012
+
+task work: team's effort to understand and perform the requirements of the job, tasks, and equipment to be used (in contrast to teamwork). 
+
+Wood 1986
+
+frameworks for the study of tasks. 
+
+1. task qua task. Tasks are defined as a pattern of stimuli impinging on the individual. Tasks characteristics are "real world" dimensions which relate to the physical nature of either the stimuli or the stimulus material.
+
+2. Task as behavior requirements. Tasks are defined in terms of the behavioral responses a person should emit in order to achieve some specified level of performance. This approach has included defintitions which focus on critical behaviors.
+
+3. Task as behavior descriptpion. Tasks are described and grouped in terms of the kinds of behaviors that people exhibit when actually performing the task.
+
+4. Task as ability requirements. Tasks are differntiated on the basis of the different skills that are required to perform them. 
+
+They combine the first two. The first one is the best, but hard to operationalize.
+
+With those two in mind...
+all tasks contain three essential components: products, acts, and information cues. 
+
+task description requires that the product of interest first be identified and then the inputs be required for that product to be described at increasing levels of specificity until the components being identified represent specific acts and the information cues that must be attended to and processed in the performance of these acts. 
