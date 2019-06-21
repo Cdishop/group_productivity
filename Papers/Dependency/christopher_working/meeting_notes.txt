@@ -1,0 +1,68 @@
+1) Who is leading?
+
+2) logical dependency
+
+is it the commit that has greater dependence or the file?
+- look at a file and its history
+- in a 2 week interval, look at a file. How many times was a file changed in the same commit as another file?
+on the file, not on the commit
+
+a commit where everything got changed means everything gets +1 on index
+commit where file A and B got changed = +1 on A and B
+at the end, A has 5 interdependenceis because it was changed at the same time as other files 5 times. 
+
+
+references
+he has them
+
+t-rex is a program for syntactic
+he is sending me a paper (on failure rate)
+
+
+
+3) other surveys from courtright meta
+
+
+4) paper needs takeaway points
+
+- theory and methods
+- look to tables to find what you want
+- therorize about tasks and measure tasks, or theorize about people and measure people
+- multiple where possible
+- begin research on the overlap between perceptions and theoretical indices
+
+5) do we need to incorporate your other dimensions?
+
+no
+
+
+
+Daniel's stuff
+- lost in taxonomy for outcome vs. task. receiving, inititating and reciprocal. clarify our taxonomy
+- images (direct copies ok?)
+- suggestion section at end
+
+
+
+
+## survey and theoretical index split:
+
+talk about overlap. Some of the indices you actually get from asking a supervisor. 
+
+
+
+
+## taxonomy stuff
+
+these are the categories you should be aware of
+this is the language you need to have to discuss these things
+
+this is just what people have done and something to consider
+not a true taxonomy
+
+you might just need headers:
+task interdependence
+outcome interdependence
+
+review is uneven: need to talk about other indices perhaps a bit more.
+
