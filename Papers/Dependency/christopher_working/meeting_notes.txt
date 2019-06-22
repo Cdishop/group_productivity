@@ -1,3 +1,8 @@
+# additions
+- naylor calls it work structure
+- shaw calls it cooperation requirements
+
+
 1) Who is leading?
 
 2) logical dependency
@@ -65,4 +70,3 @@ task interdependence
 outcome interdependence
 
 review is uneven: need to talk about other indices perhaps a bit more.
-
