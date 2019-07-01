@@ -22,12 +22,13 @@ author_note: |
   Author1, Department of Psychology, Michigan State University; Author2, Department of Psychology, Michigan State University.
 
 abstract: |
-  Structural interdependence, or the resources and workflows as well as goal and reward systems that connects team members, tasks, and jobs, is a thriving area in organizational science. Emerging evidence across multiple fields suggests that interdependence is a fundamental component to many aspects of workplace functioning. Its operationalization, though, both with respect to measures in empirical studies and indices computed across various theories, has yet to receive an integrated discussion. This paper reflects on how the constructs and ideas subsumed under structrual interdependence are assessed and indexed to guide management research in this area. We provide a taxonomy of measurement devices and indices that fosters the alignment of theory and measurement, point out discrepancies and assumptions, describe unanswered questions, and present actionable next steps for research. In short, our paper begins a conversation about structrual interdependence measurement best practice. 
+  Structural interdependence, or the resources and workflows as well as goal and reward systems that connects team members, tasks, and jobs, is a thriving area in organizational science. Emerging evidence across multiple fields suggests that interdependence is a fundamental component to many aspects of workplace functioning. Its operationalization, though, both with respect to measures in empirical studies and indices computed across various theories, has yet to receive an integrated discussion. This paper reflects on how the constructs and ideas subsumed under structural interdependence are assessed and indexed to guide management research in this area. We provide a taxonomy of measurement devices and indices that fosters the alignment of theory and measurement, point out discrepancies and assumptions, describe unanswered questions, and present actionable next steps for research. In short, our paper begins a conversation about structural interdependence measurement best practice. 
 
 keywords          : "Structural interdependence, task, outcome, initiated, received, measurement, theory"
 wordcount         : "102"
 
 bibliography      : ["refs.bib"]
+nocite            : '@wageman_as_2005; @ashworth_computational_2007; @van_der_vegt_team_2000; @ariel_team_2000'
 
 figsintext        : no
 figurelist        : no

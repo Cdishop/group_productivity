@@ -6,19 +6,52 @@ output: pdf_document
 
 Table 1 presents self-report measures of task interdependence. Items in this space assess perceptions about workflow patterns and the extent to which one or more tasks must be completed before others are initiated. Sample items include, "One task needs to be performed before the other task" [@wong_development_1991], and "Unless my job gets done, other jobs cannot be completed" [@morgeson_work_2006]. A handful of both individual and team level measures exist. Items at the individual level assess how one individual perceives his or her task in relation to others, e.g. "The way I perform my job has significant impact on others" [@pearce_task_nodate], whereas team level measures emphasize dependence without reference to any single individual, "Within my team, jobs performed by team members are related to one another" [@lee_why_2018]. As shown, most scales emphasize the individual level; a few contain both individual and team-referent items. 
 
-![](images/table1.png)
+\begin{center}
 
-Researchers using self reports have also distinguished between initiated, received [@kiggundu_task_1981], and later reciprocal interdependence [@pearce_task_nodate]. All are forms of task interdependence, but initiated occurs when "work flows from the focal employee to others" [@grant_7_2009], whereas received interdependence emphasizes how the focal employee is affected by work from others [@kiggundu_task_1981]. When both occur, the focal node is said to be under reciprocal interdependence. @morgeson_work_2006 provide a scale for both initiated and received interdependence, whereas @pearce_task_nodate provide items that measure reciprocal interdependence and *independence*. Other existing measures tend to emphasize reciprocal [e.g., @campion_relations_1993; @wong_development_1991] or mix items that reflect initiated, received, and reciprocal interdependence [e.g., @lee_why_2018; @pennings_interdependence_1975]. 
+------------
+
+Insert Table 1 about here
+
+------------
+
+\end{center}
+
+Researchers using self reports have also distinguished between initiated, received [@kiggundu_task_1981], and later reciprocal interdependence [@pearce_task_nodate]. All are forms of task interdependence, but initiated occurs when "work flows from the focal employee to others" [@grant_7_2009, p. 324], whereas received interdependence emphasizes how the focal employee is affected by work from others [@kiggundu_task_1981]. When both occur, the focal node is said to be under reciprocal interdependence. @morgeson_work_2006 provide a scale for both initiated and received interdependence, whereas @pearce_task_nodate provide items that measure reciprocal interdependence and *independence*. Other existing measures tend to emphasize reciprocal [e.g., @campion_relations_1993; @wong_development_1991] or mix items that reflect initiated, received, and reciprocal interdependence [e.g., @lee_why_2018; @pennings_interdependence_1975]. 
 
 Individuals typically respond to task interdependence items with respect to all of their tasks, meaning that a focal individual is asked not about a defined activity such as giving a presentation but, instead, about her perceived interdependence in general. The exception is a study and measure provided by @arthur_team_2012. These researchers created a list of tasks that F-16 pilots completed during their training, gathered subject-matter-expert ratings of the interdependence among those tasks that could be used as an "objective" standard, and then created measures that were completed by individual pilots concerning their perceptions of interdependence *for each individual task*. The perceptions that emerged from the self reports then matched the SME-classified high, medium, and low task interdependent activities. The questionnaire provided by the authors is reprinted in Figure 1. For each task, individuals were asked to rate the extent to which they were required to work with other team members and then mark the pattern of workflow, such as pooled, sequential, or reciprocal. These authors also uniquely differentiate between team-relatedness, or the extent to which successful performance requires task interdependence, and team workflow, or the type of task interdependence as defined by Thompson (1967). The images of task relationships shown in their "team workflow" box are the same as those in @ven_determinants_1976 and Thompson (1967): the questionnaire used by @ven_determinants_1976 is shown in Figure 2. As shown, the images represent increasingly task interdependent work arrangements, moving from independent to sequential, reciprocal, and then team. Note that @bell_typology_2002 called the last task interdependence type "intensive" rather than "team." In @arthur_team_2012, members are asked to rate each task with respect to the task interdependence work flow type, whereas in Thompson (1967) and @ven_determinants_1976 individuals used the images to describe the nature of their work as a whole. 
 
-![](images/figure1.png)
+\begin{center}
 
-![](images/figure2.png)
+------------
+
+Insert Figure 1 about here
+
+------------
+
+\end{center}
+
+\begin{center}
+
+------------
+
+Insert Figure 2 about here
+
+------------
+
+\end{center}
 
 Moving to outcome interdependence, Table 2 shows self reports currently in the literature. Items in this space assess perceptions about shared goals, e.g., "My work goals come directly from the goals of my team" [@campion_relations_1993] or benefits contingent on group rather than individual contributions, e.g., "Many rewards from my job are determined in large part by my contributions as a team member" [@campion_relations_1993]. There are a number of both individual [@de_dreu_cooperative_2007] and team-referent [@janssen_how_1999; @zhang2007transactive] measures. Campion et al. (1993) provide two separate scales, one for goal and the other for reward interdependence, whereas other researchers assess only goal interdependence [@zhang2007transactive], reward interdependence [@de_dreu_cooperative_2007], or use items that tap both domains [@janssen_how_1999].
 
-![](images/table2.png)
+
+\begin{center}
+
+------------
+
+Insert Table 2 about here
+
+------------
+
+\end{center}
 
 
 
