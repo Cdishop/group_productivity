@@ -1,8 +1,0 @@
-\begin{longtable}[]{@{}l@{}}
-\toprule
-\textbackslash{}begin\{center\}\tabularnewline
-\midrule
-\endhead
-Insert Table 2 about here\tabularnewline
-\bottomrule
-\end{longtable}
